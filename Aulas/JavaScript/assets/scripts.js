@@ -6,7 +6,7 @@ function increment() {
     currentNumberWrapper.innerHTML = currentNumber;
 }
 
-function drecrement() {
-    currentNumber = currentNumber + 1;
+function decrement() {
+    currentNumber = currentNumber - 1;
     currentNumberWrapper.innerHTML = currentNumber;
 }
