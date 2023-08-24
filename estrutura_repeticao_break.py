@@ -15,4 +15,4 @@ while True:
 #     if numero % 2 == 0:
 #         continue
 
-#     print(numero, end=" ")
+#     print(numero, end="")
