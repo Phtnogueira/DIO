@@ -1,0 +1,2 @@
+/{modelo}/{ano}/{placa}")
+
